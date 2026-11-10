@@ -1,4 +1,4 @@
-name: rabbit-mq
+name: rabbitmq
 
 services:
   rabbitmq:
